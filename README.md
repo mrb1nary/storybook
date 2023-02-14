@@ -37,7 +37,7 @@
     <img src="https://opencollective.com/storybook/sponsors/badge.svg" alt="Sponsors on Open Collective" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=storybookjs">
-    <img src="https://badgen.net/twitter/follow/storybookjs?icon=twitter&label=%40storybookjs" alt="Official Twitter Handle" />
+    <img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" alt="Official Twitter Handle" />
   </a>
   <a href="https://api.securityscorecards.dev/projects/github.com/storybookjs/storybook">
     <img src="https://api.securityscorecards.dev/projects/github.com/storybookjs/storybook/badge" alt="OpenSSF Scorecard"/>
